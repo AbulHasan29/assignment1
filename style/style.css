@@ -258,3 +258,47 @@ nav{
 .button-dec{
     margin:32px 440px 48px 440px;
 }
+
+/* Style newsletter section */
+
+.newsletter{
+    background-color:#C6E4D6;
+    align-items: center;
+    margin:80px 160px 80px 160px;
+    padding:80px 100px;
+}
+.newsletter-title{
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+
+}
+.newsletter-description{
+    text-align:center;
+    font-weight: 400;
+    font-size: 16px;
+    color: #0E0E0E;
+}
+.newsletter-input{
+    height:30px ;
+    width: 500px;
+    background-color: #FFFFFF;
+    color:#0E0E0E ;
+    padding: 4px 20px;
+    margin: 24px 0px 25px 200px;
+    border-right: none;
+    border-radius:8px;
+    border-color: #09A15C;
+}
+.newsletter-marge{
+       display: flex;
+      justify-content: center;
+      align-items: center;
+      border:none;
+      margin-bottom: 10px;
+       
+
+}
+.marge{
+    border-left: none;
+}
