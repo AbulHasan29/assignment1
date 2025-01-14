@@ -243,14 +243,16 @@ nav{
     border:2px solid #09A15C;
 }
 .donate-input{
-    width:900px;
+    width:800px;
     height: 50px;
     background-color: #FFFFFF;
-    padding: 20px 40px; 
-    border:none;
+    padding: 4px 20px; 
+    border-color: #006A50;
+    border:none ;
     border-radius: 8px;
     font-size: 20px;
      margin-bottom: 20px;
+     margin-left: 30px;
      font-weight:400;
      text-align: center;
 
